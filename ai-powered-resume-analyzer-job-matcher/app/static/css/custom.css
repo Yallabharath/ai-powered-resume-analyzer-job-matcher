@@ -1,0 +1,4 @@
+/* Custom styles for Resume Analyzer */
+.keyword-present { color: green; font-weight: bold; }
+.keyword-missing { color: red; font-weight: bold; }
+.upload-section { margin-top: 80px; }
